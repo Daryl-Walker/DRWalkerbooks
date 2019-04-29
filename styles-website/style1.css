@@ -1,0 +1,45 @@
+.red{
+	background: red;
+}
+.box{
+	height: 10px;
+	width: 10px;
+}
+.redbutton{
+	background: red;
+	height: 50px;
+	width: 150px;
+}
+.bluebutton{
+	background: blue;
+	height: 50px;
+	width: 150px;
+}
+.yellowbutton{
+	background: yellow;
+	height: 50px;
+	width: 150px;
+}
+.ImageSize{
+	height: 500px;
+	width: 500px;
+}
+.Cloud_9_4{
+	background-image: url("C:\Users\daryl\OneDrive\Attachments\Cloud_9_4.jpg");
+}
+.thick-blue-border{
+	border-color: blue;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 50%;
+}
+.blk-bkgrnd{
+	background: black;
+	color: white;
+}
+.thick-red-border{
+	border-color: red;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 50%;	
+}
