@@ -9,12 +9,6 @@
     border-color: ghostwhite;
     border-style: solid;
 }
-#BookImage {
-    height: 450px;
-    width: 300px;
-    overflow: hidden;
-    text-align: center;
-}
 div.center {
     margin: 0 auto;
     width: 80em;
